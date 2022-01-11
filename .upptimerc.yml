@@ -1,7 +1,7 @@
 # Change these first
 owner: realkimmy # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-
+user-agent: realkimmy
 sites:
   - name: Google
     url: https://www.google.com
@@ -30,7 +30,5 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
-  commitAuthorName: $OWNER
+  commitAuthorName: "realkimmy"
   commitAuthorEmail: "upcwangying@126.com"
-  
-user-agent: $OWNER
