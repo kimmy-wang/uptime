@@ -3,6 +3,12 @@ owner: realkimmy # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 user-agent: realkimmy
 sites:
+  - name: GitHub Trending Repo
+    url: https://api.gitterapp.com/repositories
+  - name: GitHub Trending Developer
+    url: https://api.gitterapp.com/developers
+  - name: GitHub Languages
+    url: https://api.gitterapp.com/languages
   - name: GitHub Readme
     url: https://github.gitterapp.com/api/readme?owner=realkimmy&repo=realkimmy
   - name: GitHub Pinned
