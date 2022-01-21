@@ -3,19 +3,19 @@ owner: realkimmy # Your GitHub organization or username, where this repository l
 repo: uptime # The name of this repository
 user-agent: realkimmy
 sites:
-  - name: GitHub Trending Repo
+  - name: Github Trending Repo
     url: https://api.gitterapp.com/repositories
-  - name: GitHub Trending Developer
+  - name: Github Trending Developer
     url: https://api.gitterapp.com/developers
-  - name: GitHub Languages
+  - name: Github Languages
     url: https://api.gitterapp.com/languages
-  - name: GitHub Readme
+  - name: Github Readme
     url: https://github.gitterapp.com/api/readme?owner=realkimmy&repo=realkimmy
-  - name: GitHub Pinned
+  - name: Github Pinned
     url: https://github.gitterapp.com/api/pinned?username=realkimmy
-  - name: GitHub Contributions
+  - name: Github Contributions
     url: https://github.gitterapp.com/api/contributions?username=realkimmy&from=2021-01-01&to=2021-12-31
-  - name: GitHub Contributions(V2)
+  - name: Github Contributions(V2)
     url: https://github.gitterapp.com/api/v2/contributions?username=realkimmy&from=2021-01-01&to=2021-12-31
 
 status-website:
