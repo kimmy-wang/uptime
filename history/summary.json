@@ -58,19 +58,19 @@
     "url": "https://github.gitterapp.com/api/readme?owner=realkimmy&repo=realkimmy",
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-readme",
-    "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 806,
-    "timeDay": 826,
-    "timeWeek": 806,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 805,
+    "timeDay": 823,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2022-01-24": 12
+      "2022-01-24": 0
     }
   },
   {
@@ -90,7 +90,7 @@
     "timeMonth": 1699,
     "timeYear": 1699,
     "dailyMinutesDown": {
-      "2022-01-24": 830,
+      "2022-01-24": 888,
       "2022-01-23": 1440,
       "2022-01-22": 1440,
       "2022-01-21": 963
