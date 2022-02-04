@@ -4,9 +4,9 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1716,
     "timeMonth": 1502,
     "timeYear": 1502,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-04": 0
+    }
   },
   {
     "name": "Github Trending Developer",
@@ -79,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "down",
-    "uptime": "0.46%",
-    "uptimeDay": "1.56%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.46%",
-    "uptimeYear": "0.46%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 1298,
-    "timeDay": 1196,
+    "timeDay": 1514,
     "timeWeek": 1216,
     "timeMonth": 1298,
     "timeYear": 1298,
     "dailyMinutesDown": {
-      "2022-02-04": 7,
+      "2022-02-04": 1169,
       "2022-02-03": 1411,
       "2022-02-02": 1377,
       "2022-02-01": 1440,
