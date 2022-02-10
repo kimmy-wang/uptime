@@ -4,9 +4,9 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 1879,
     "timeMonth": 1619,
     "timeYear": 1619,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Github Trending Developer",
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 983,
     "timeMonth": 963,
     "timeYear": 963,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Github Languages",
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 85,
     "timeMonth": 82,
     "timeYear": 82,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-10": 0
+    }
   },
   {
     "name": "Github Readme",
@@ -59,11 +65,11 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-readme",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 861,
     "timeDay": 921,
     "timeWeek": 947,
@@ -79,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "down",
-    "uptime": "0.32%",
+    "uptime": "0.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.22%",
-    "uptimeMonth": "0.32%",
-    "uptimeYear": "0.32%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.31%",
+    "uptimeYear": "0.31%",
     "time": 1292,
     "timeDay": 1416,
-    "timeWeek": 1237,
+    "timeWeek": 1294,
     "timeMonth": 1292,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2022-02-10": 8,
+      "2022-02-10": 854,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
