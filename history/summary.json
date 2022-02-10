@@ -4,19 +4,19 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1619,
-    "timeDay": 1500,
-    "timeWeek": 1879,
-    "timeMonth": 1619,
-    "timeYear": 1619,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1628,
+    "timeDay": 1664,
+    "timeWeek": 1873,
+    "timeMonth": 1628,
+    "timeYear": 1628,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 11
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 963,
-    "timeDay": 968,
-    "timeWeek": 983,
-    "timeMonth": 963,
-    "timeYear": 963,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 982,
+    "timeDay": 1174,
+    "timeWeek": 1033,
+    "timeMonth": 982,
+    "timeYear": 982,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 11
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-languages",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 82,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 79,
     "timeDay": 16,
-    "timeWeek": 85,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "timeWeek": 77,
+    "timeMonth": 79,
+    "timeYear": 79,
     "dailyMinutesDown": {
-      "2022-02-10": 0
+      "2022-02-10": 11
     }
   },
   {
@@ -96,7 +96,7 @@
     "timeMonth": 1292,
     "timeYear": 1292,
     "dailyMinutesDown": {
-      "2022-02-10": 854,
+      "2022-02-10": 865,
       "2022-02-09": 1440,
       "2022-02-08": 1440,
       "2022-02-07": 1440,
