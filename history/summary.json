@@ -4,10 +4,10 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1664,
@@ -15,16 +15,18 @@
     "timeWeek": 1918,
     "timeMonth": 1664,
     "timeYear": 1664,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 2
+    }
   },
   {
     "name": "Github Trending Developer",
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1174,
     "timeMonth": 1035,
     "timeYear": 1035,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-20": 0
+    }
   },
   {
     "name": "Github Languages",
@@ -90,7 +94,7 @@
     "timeMonth": 1345,
     "timeYear": 1345,
     "dailyMinutesDown": {
-      "2022-02-20": 11,
+      "2022-02-20": 483,
       "2022-02-19": 1440,
       "2022-02-18": 1440,
       "2022-02-17": 1440,
