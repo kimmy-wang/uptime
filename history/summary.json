@@ -22,10 +22,10 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1032,
@@ -33,7 +33,9 @@
     "timeWeek": 1092,
     "timeMonth": 1052,
     "timeYear": 1032,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 1
+    }
   },
   {
     "name": "Github Languages",
@@ -90,7 +92,7 @@
     "timeMonth": 1333,
     "timeYear": 1363,
     "dailyMinutesDown": {
-      "2022-02-25": 10,
+      "2022-02-25": 1023,
       "2022-02-24": 1440,
       "2022-02-23": 1440,
       "2022-02-22": 1440,
