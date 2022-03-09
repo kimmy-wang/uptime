@@ -4,10 +4,10 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "96.51%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
     "time": 1754,
@@ -16,7 +16,7 @@
     "timeMonth": 1829,
     "timeYear": 1754,
     "dailyMinutesDown": {
-      "2022-03-09": 49
+      "2022-03-09": 51
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "97.18%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 1451,
     "timeDay": 6749,
     "timeWeek": 3125,
     "timeMonth": 1716,
     "timeYear": 1451,
     "dailyMinutesDown": {
-      "2022-03-09": 41
+      "2022-03-09": 28
     }
   },
   {
@@ -83,11 +83,11 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "4.48%",
+    "uptime": "4.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "29.37%",
-    "uptimeMonth": "14.71%",
-    "uptimeYear": "4.48%",
+    "uptimeWeek": "29.88%",
+    "uptimeMonth": "14.83%",
+    "uptimeYear": "4.56%",
     "time": 1320,
     "timeDay": 4,
     "timeWeek": 861,
