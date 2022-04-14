@@ -4,9 +4,9 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 1951,
     "timeYear": 1856,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-09": 65
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -36,6 +37,7 @@
     "timeMonth": 888,
     "timeYear": 1269,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-03-09": 28
     }
   },
@@ -44,11 +46,11 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
     "timeDay": 29,
@@ -56,7 +58,7 @@
     "timeMonth": 36,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2022-04-14": 6
+      "2022-04-14": 0
     }
   },
   {
@@ -66,12 +68,12 @@
     "slug": "github-readme",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
     "time": 891,
-    "timeDay": 729,
+    "timeDay": 687,
     "timeWeek": 890,
     "timeMonth": 900,
     "timeYear": 891,
@@ -87,11 +89,11 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "45.72%",
+    "uptime": "45.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "45.72%",
+    "uptimeYear": "45.73%",
     "time": 856,
     "timeDay": 4,
     "timeWeek": 6,
