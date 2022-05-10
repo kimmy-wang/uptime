@@ -1,7 +1,7 @@
 url: https://github.gitterapp.com/api/readme?owner=realkimmy&repo=realkimmy
-status: up
-code: 200
-responseTime: 882
-lastUpdated: 2022-05-10T06:42:15.184Z
+status: down
+code: 500
+responseTime: 811
+lastUpdated: 2022-05-10T08:53:23.445Z
 startTime: Fri Jan 21 2022 07:57:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
