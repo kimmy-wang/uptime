@@ -1,7 +1,7 @@
 # Change these first
-owner: realkimmy # Your GitHub organization or username, where this repository lives
+owner: see # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-user-agent: realkimmy
+user-agent: see
 sites:
   - name: Github Trending Repo
     url: https://api.gitterapp.com/repositories
@@ -10,13 +10,13 @@ sites:
   - name: Github Languages
     url: https://api.gitterapp.com/languages
   - name: Github Readme
-    url: https://github.gitterapp.com/api/readme?owner=realkimmy&repo=realkimmy
+    url: https://github.gitterapp.com/api/readme?owner=see&repo=see
   - name: Github Pinned
-    url: https://github.gitterapp.com/api/pinned?username=realkimmy
+    url: https://github.gitterapp.com/api/pinned?username=see
   - name: Github Contributions
-    url: https://github.gitterapp.com/api/contributions?username=realkimmy&from=2021-01-01&to=2021-12-31
+    url: https://github.gitterapp.com/api/contributions?username=see&from=2021-01-01&to=2021-12-31
   - name: Github Contributions(V2)
-    url: https://github.gitterapp.com/api/v2/contributions?username=realkimmy&from=2021-01-01&to=2021-12-31
+    url: https://github.gitterapp.com/api/v2/contributions?username=see&from=2021-01-01&to=2021-12-31
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/realkimmy/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/see/uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
