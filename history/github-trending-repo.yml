@@ -1,7 +1,7 @@
 url: https://api.gitterapp.com/repositories
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-05-17T16:29:20.082Z
+status: up
+code: 200
+responseTime: 1059
+lastUpdated: 2022-05-17T16:50:17.643Z
 startTime: Fri Jan 21 2022 07:57:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
