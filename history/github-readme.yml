@@ -1,7 +1,7 @@
 url: https://github.gitterapp.com/api/readme?owner=see&repo=see
-status: up
-code: 200
-responseTime: 944
-lastUpdated: 2022-06-10T23:05:52.820Z
+status: down
+code: 500
+responseTime: 883
+lastUpdated: 2022-06-11T07:38:44.681Z
 startTime: Fri Jan 21 2022 07:57:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
