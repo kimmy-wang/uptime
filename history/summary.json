@@ -26,9 +26,9 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -38,6 +38,7 @@
     "timeMonth": 872,
     "timeYear": 1093,
     "dailyMinutesDown": {
+      "2022-08-10": 0,
       "2022-05-17": 21,
       "2022-04-14": 46,
       "2022-03-09": 28
@@ -48,9 +49,9 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -60,6 +61,7 @@
     "timeMonth": 111,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-08-10": 0,
       "2022-04-14": 46
     }
   },
@@ -102,11 +104,11 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "77.51%",
+    "uptime": "77.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.51%",
+    "uptimeYear": "77.55%",
     "time": 471,
     "timeDay": 1686,
     "timeWeek": 262,
