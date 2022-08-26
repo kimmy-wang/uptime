@@ -4,9 +4,9 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 1938,
     "timeYear": 1933,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-05-17": 21,
       "2022-04-14": 46,
       "2022-03-09": 65
@@ -26,9 +27,9 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -38,6 +39,7 @@
     "timeMonth": 905,
     "timeYear": 1078,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-05-17": 21,
       "2022-04-14": 46,
       "2022-03-09": 28
@@ -48,9 +50,9 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://favicons.githubusercontent.com/api.gitterapp.com",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -60,6 +62,7 @@
     "timeMonth": 113,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-04-14": 46
     }
   },
@@ -102,11 +105,11 @@
     "icon": "https://favicons.githubusercontent.com/github.gitterapp.com",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "79.17%",
+    "uptime": "79.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.17%",
+    "uptimeYear": "79.21%",
     "time": 443,
     "timeDay": 0,
     "timeWeek": 21,
