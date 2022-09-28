@@ -9,6 +9,8 @@ sites:
     url: https://api.gitterapp.com/developers
   - name: Github Languages
     url: https://api.gitterapp.com/languages
+  - name: Github Spoken Languages
+    url: https://api.gitterapp.com/spoken_languages
   - name: Github Readme
     url: https://github.gitterapp.com/api/readme?owner=see&repo=see
   - name: Github Pinned
