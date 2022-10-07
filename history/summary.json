@@ -48,9 +48,9 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -60,6 +60,7 @@
     "timeMonth": 161,
     "timeYear": 130,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-04-14": 46
     }
   },
@@ -121,11 +122,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "82.55%",
+    "uptime": "82.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.55%",
+    "uptimeYear": "82.56%",
     "time": 402,
     "timeDay": 1048,
     "timeWeek": 405,
