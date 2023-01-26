@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-repo",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1829,
     "timeDay": 1907,
@@ -16,7 +16,6 @@
     "timeMonth": 1553,
     "timeYear": 1835,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-05-17": 21,
       "2022-04-14": 46,
       "2022-03-09": 65
@@ -176,8 +175,7 @@
       "2022-01-30": 1440,
       "2022-01-29": 1440,
       "2022-01-28": 1440,
-      "2022-01-27": 1440,
-      "2022-01-26": 1440
+      "2022-01-27": 1440
     }
   },
   {
