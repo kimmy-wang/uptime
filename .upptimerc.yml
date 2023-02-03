@@ -1,7 +1,7 @@
 # Change these first
-owner: see # Your GitHub organization or username, where this repository lives
+owner: kw214 # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
-user-agent: see
+user-agent: kw214
 sites:
   - name: Github Trending Repo
     url: https://api.gitterapp.com/repositories
@@ -12,13 +12,13 @@ sites:
   - name: Github Spoken Languages
     url: https://api.gitterapp.com/spoken_languages
   - name: Github Readme
-    url: https://github.gitterapp.com/api/readme?owner=see&repo=see
+    url: https://github.gitterapp.com/api/readme?owner=kw214&repo=kw214
   - name: Github Pinned
-    url: https://github.gitterapp.com/api/pinned?username=see
+    url: https://github.gitterapp.com/api/pinned?username=kw214
   - name: Github Contributions
-    url: https://github.gitterapp.com/api/contributions?username=see&from=2021-01-01&to=2021-12-31
+    url: https://github.gitterapp.com/api/contributions?username=kw214&from=2021-01-01&to=2021-12-31
   - name: Github Contributions(V2)
-    url: https://github.gitterapp.com/api/v2/contributions?username=see&from=2021-01-01&to=2021-12-31
+    url: https://github.gitterapp.com/api/v2/contributions?username=kw214&from=2021-01-01&to=2021-12-31
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -38,5 +38,5 @@ status-website:
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 commitMessages:
-  commitAuthorName: "see"
+  commitAuthorName: "kw214"
   commitAuthorEmail: "upcwangying@126.com"
