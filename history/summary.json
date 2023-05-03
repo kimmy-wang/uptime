@@ -12,9 +12,9 @@
     "uptimeYear": "100.00%",
     "time": 1771,
     "timeDay": 1746,
-    "timeWeek": 2303,
-    "timeMonth": 1773,
-    "timeYear": 1744,
+    "timeWeek": 2328,
+    "timeMonth": 1783,
+    "timeYear": 1743,
     "dailyMinutesDown": {
       "2022-05-17": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 952,
-    "timeDay": 645,
-    "timeWeek": 689,
+    "time": 951,
+    "timeDay": 710,
+    "timeWeek": 696,
     "timeMonth": 771,
-    "timeYear": 855,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2022-05-17": 21
     }
@@ -50,9 +50,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 148,
-    "timeDay": 65,
-    "timeWeek": 136,
+    "time": 147,
+    "timeDay": 60,
+    "timeWeek": 130,
     "timeMonth": 128,
     "timeYear": 162,
     "dailyMinutesDown": {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 129,
+    "time": 128,
     "timeDay": 22,
-    "timeWeek": 83,
-    "timeMonth": 74,
-    "timeYear": 129,
+    "timeWeek": 81,
+    "timeMonth": 64,
+    "timeYear": 128,
     "dailyMinutesDown": {}
   },
   {
@@ -84,17 +84,16 @@
     "slug": "github-readme",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1008,
-    "timeDay": 767,
-    "timeWeek": 868,
-    "timeMonth": 873,
-    "timeYear": 1045,
+    "time": 1009,
+    "timeDay": 753,
+    "timeWeek": 860,
+    "timeMonth": 874,
+    "timeYear": 1046,
     "dailyMinutesDown": {
-      "2023-05-02": 6,
       "2023-03-29": 20,
       "2023-03-14": 19,
       "2023-02-22": 16,
@@ -109,8 +108,7 @@
       "2022-05-20": 21,
       "2022-05-18": 44,
       "2022-05-14": 15,
-      "2022-05-07": 20,
-      "2022-05-03": 20
+      "2022-05-07": 20
     }
   },
   {
@@ -119,15 +117,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "90.32%",
+    "uptime": "90.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 1094,
-    "timeWeek": 664,
-    "timeMonth": 505,
+    "time": 333,
+    "timeDay": 10,
+    "timeWeek": 651,
+    "timeMonth": 452,
     "timeYear": 205,
     "dailyMinutesDown": {}
   },
@@ -142,11 +140,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 1764,
-    "timeWeek": 749,
-    "timeMonth": 500,
-    "timeYear": 220,
+    "time": 184,
+    "timeDay": 1753,
+    "timeWeek": 995,
+    "timeMonth": 505,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -160,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 162,
-    "timeDay": 1673,
-    "timeWeek": 771,
-    "timeMonth": 415,
-    "timeYear": 197,
+    "time": 164,
+    "timeDay": 1422,
+    "timeWeek": 969,
+    "timeMonth": 424,
+    "timeYear": 200,
     "dailyMinutesDown": {}
   }
 ]
