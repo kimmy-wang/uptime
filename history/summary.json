@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1766,
-    "timeDay": 1145,
-    "timeWeek": 1572,
-    "timeMonth": 1737,
+    "time": 1767,
+    "timeDay": 2158,
+    "timeWeek": 1695,
+    "timeMonth": 1758,
     "timeYear": 1732,
     "dailyMinutesDown": {
       "2022-05-17": 21
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 947,
-    "timeDay": 322,
-    "timeWeek": 720,
-    "timeMonth": 779,
-    "timeYear": 850,
+    "time": 948,
+    "timeDay": 1286,
+    "timeWeek": 787,
+    "timeMonth": 790,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2022-05-17": 21
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 149,
-    "timeDay": 63,
-    "timeWeek": 194,
-    "timeMonth": 152,
+    "timeDay": 132,
+    "timeWeek": 212,
+    "timeMonth": 153,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2022-10-07": 49
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 23,
-    "timeWeek": 124,
+    "time": 126,
+    "timeDay": 47,
+    "timeWeek": 129,
     "timeMonth": 86,
-    "timeYear": 127,
+    "timeYear": 126,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 1026,
-    "timeDay": 925,
-    "timeWeek": 1012,
-    "timeMonth": 901,
-    "timeYear": 1057,
+    "time": 1028,
+    "timeDay": 2632,
+    "timeWeek": 1203,
+    "timeMonth": 931,
+    "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-05-11": 26,
       "2023-03-29": 20,
@@ -107,8 +107,7 @@
       "2022-07-03": 33,
       "2022-06-16": 30,
       "2022-05-20": 21,
-      "2022-05-18": 44,
-      "2022-05-14": 15
+      "2022-05-18": 44
     }
   },
   {
@@ -117,15 +116,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "90.53%",
+    "uptime": "90.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 6,
-    "timeWeek": 257,
-    "timeMonth": 369,
+    "timeDay": 44,
+    "timeWeek": 262,
+    "timeMonth": 370,
     "timeYear": 202,
     "dailyMinutesDown": {}
   },
@@ -140,11 +139,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 9,
-    "timeWeek": 709,
-    "timeMonth": 574,
-    "timeYear": 239,
+    "time": 195,
+    "timeDay": 561,
+    "timeWeek": 566,
+    "timeMonth": 592,
+    "timeYear": 240,
     "dailyMinutesDown": {}
   },
   {
@@ -159,8 +158,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 7,
-    "timeWeek": 253,
+    "timeDay": 40,
+    "timeWeek": 257,
     "timeMonth": 456,
     "timeYear": 204,
     "dailyMinutesDown": {}
