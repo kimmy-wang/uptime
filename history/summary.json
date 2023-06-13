@@ -78,19 +78,19 @@
     "url": "https://github.gitterapp.com/api/readme?owner=kw214&repo=kw214",
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-readme",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "94.40%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.05%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.93%",
     "time": 1036,
-    "timeDay": 3672,
-    "timeWeek": 1359,
-    "timeMonth": 1022,
+    "timeDay": 2718,
+    "timeWeek": 1317,
+    "timeMonth": 1018,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-06-13": 81,
+      "2023-06-13": 86,
       "2023-05-11": 26,
       "2023-03-29": 20,
       "2023-03-14": 19,
@@ -110,19 +110,19 @@
     "url": "https://github.gitterapp.com/api/pinned?username=kw214",
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
-    "status": "down",
+    "status": "up",
     "uptime": "91.11%",
-    "uptimeDay": "94.42%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.82%",
+    "uptimeDay": "94.08%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.98%",
     "time": 297,
-    "timeDay": 3875,
-    "timeWeek": 1393,
-    "timeMonth": 707,
-    "timeYear": 257,
+    "timeDay": 3188,
+    "timeWeek": 1440,
+    "timeMonth": 741,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2023-06-13": 80
+      "2023-06-13": 85
     }
   },
   {
@@ -132,9 +132,9 @@
     "slug": "github-contributions",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "95.60%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 258,
     "timeDay": 2940,
@@ -142,7 +142,7 @@
     "timeMonth": 958,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2023-06-13": 63
+      "2023-06-13": 57
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://github.gitterapp.com/api/v2/contributions?username=kw214&from=2021-01-01&to=2021-12-31",
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-contributions-v2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "94.94%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.58%",
+    "uptimeWeek": "99.23%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
-    "time": 217,
-    "timeDay": 3495,
-    "timeWeek": 1865,
-    "timeMonth": 826,
-    "timeYear": 271,
+    "time": 224,
+    "timeDay": 3479,
+    "timeWeek": 2006,
+    "timeMonth": 900,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2023-06-13": 73
+      "2023-06-13": 78
     }
   }
 ]
