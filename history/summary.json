@@ -79,18 +79,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-readme",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.92%",
+    "uptimeDay": "95.50%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 1036,
     "timeDay": 3672,
     "timeWeek": 1359,
     "timeMonth": 1022,
     "timeYear": 1050,
     "dailyMinutesDown": {
-      "2023-06-13": 27,
+      "2023-06-13": 65,
       "2023-05-11": 26,
       "2023-03-29": 20,
       "2023-03-14": 19,
@@ -111,10 +111,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
     "status": "down",
-    "uptime": "91.12%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptime": "91.11%",
+    "uptimeDay": "95.52%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 297,
     "timeDay": 3875,
@@ -122,7 +122,7 @@
     "timeMonth": 707,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2023-06-13": 27
+      "2023-06-13": 64
     }
   },
   {
@@ -130,19 +130,19 @@
     "url": "https://github.gitterapp.com/api/contributions?username=kw214&from=2021-01-01&to=2021-12-31",
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-contributions",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.63%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 3153,
-    "timeWeek": 1744,
-    "timeMonth": 808,
-    "timeYear": 310,
+    "timeDay": 2548,
+    "timeWeek": 1598,
+    "timeMonth": 789,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2023-06-13": 20
+      "2023-06-13": 57
     }
   },
   {
@@ -151,18 +151,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-contributions-v2",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.67%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.04%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 217,
     "timeDay": 3495,
     "timeWeek": 1865,
     "timeMonth": 826,
     "timeYear": 271,
     "dailyMinutesDown": {
-      "2023-06-13": 19
+      "2023-06-13": 57
     }
   }
 ]
