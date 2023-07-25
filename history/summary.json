@@ -4,27 +4,29 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1702,
+    "time": 1699,
     "timeDay": 437,
     "timeWeek": 389,
     "timeMonth": 1282,
     "timeYear": 1623,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 1
+    }
   },
   {
     "name": "Github Trending Developer",
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 77,
     "timeMonth": 603,
     "timeYear": 826,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-25": 0
+    }
   },
   {
     "name": "Github Languages",
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -52,6 +56,7 @@
     "timeMonth": 150,
     "timeYear": 154,
     "dailyMinutesDown": {
+      "2023-07-25": 0,
       "2022-10-07": 49
     }
   },
@@ -86,7 +91,7 @@
     "uptimeYear": "99.94%",
     "time": 1038,
     "timeDay": 539,
-    "timeWeek": 840,
+    "timeWeek": 819,
     "timeMonth": 928,
     "timeYear": 1042,
     "dailyMinutesDown": {
