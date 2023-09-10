@@ -1,7 +1,7 @@
 url: https://github.gitterapp.com/api/readme?owner=kw214&repo=kw214
-status: up
-code: 200
-responseTime: 1160
-lastUpdated: 2023-09-09T23:05:00.900Z
+status: down
+code: 500
+responseTime: 951
+lastUpdated: 2023-09-10T06:37:42.299Z
 startTime: 2022-01-21T07:57:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
