@@ -6,9 +6,9 @@
     "slug": "github-trending-repo",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1625,
     "timeDay": 1509,
@@ -16,7 +16,7 @@
     "timeMonth": 1658,
     "timeYear": 1590,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 8
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-developer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 827,
-    "timeDay": 670,
-    "timeWeek": 795,
-    "timeMonth": 756,
+    "timeDay": 655,
+    "timeWeek": 775,
+    "timeMonth": 752,
     "timeYear": 816,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 8
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-languages",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 63,
+    "timeDay": 43,
     "timeWeek": 23,
-    "timeMonth": 111,
-    "timeYear": 145,
+    "timeMonth": 108,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 8
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.gitterapp.com/spoken_languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-spoken-languages",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 22,
-    "timeWeek": 58,
-    "timeMonth": 125,
+    "time": 115,
+    "timeDay": 16,
+    "timeWeek": 52,
+    "timeMonth": 121,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2023-12-20": 0
+      "2023-12-20": 8
     }
   },
   {
