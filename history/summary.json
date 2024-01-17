@@ -78,9 +78,9 @@
     "slug": "github-readme",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
     "time": 1009,
     "timeDay": 1237,
@@ -88,7 +88,7 @@
     "timeMonth": 957,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 6,
       "2024-01-09": 33,
       "2023-11-21": 22,
       "2023-06-13": 86,
@@ -105,9 +105,9 @@
     "slug": "github-pinned",
     "status": "down",
     "uptime": "93.78%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
     "time": 300,
     "timeDay": 32,
@@ -115,7 +115,7 @@
     "timeMonth": 38,
     "timeYear": 352,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 6,
       "2023-06-13": 85
     }
   },
@@ -126,9 +126,9 @@
     "slug": "github-contributions",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 333,
     "timeDay": 27,
@@ -136,7 +136,7 @@
     "timeMonth": 57,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2024-01-17": 0,
+      "2024-01-17": 6,
       "2023-06-13": 57
     }
   },
@@ -145,18 +145,19 @@
     "url": "https://github.gitterapp.com/api/v2/contributions?username=kw214&from=2021-01-01&to=2021-12-31",
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-contributions-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
-    "timeDay": 8,
+    "timeDay": 10,
     "timeWeek": 8,
-    "timeMonth": 36,
-    "timeYear": 355,
+    "timeMonth": 35,
+    "timeYear": 354,
     "dailyMinutesDown": {
+      "2024-01-17": 0,
       "2023-06-13": 78
     }
   }
