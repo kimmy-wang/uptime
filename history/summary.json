@@ -4,19 +4,19 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-repo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1592,
-    "timeDay": 1329,
-    "timeWeek": 1144,
-    "timeMonth": 1383,
+    "time": 1591,
+    "timeDay": 1320,
+    "timeWeek": 1165,
+    "timeMonth": 1381,
     "timeYear": 1589,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-developer",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 836,
-    "timeDay": 642,
-    "timeWeek": 645,
-    "timeMonth": 767,
-    "timeYear": 812,
+    "time": 835,
+    "timeDay": 618,
+    "timeWeek": 639,
+    "timeMonth": 761,
+    "timeYear": 811,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-languages",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 22,
-    "timeWeek": 129,
-    "timeMonth": 123,
+    "timeDay": 56,
+    "timeWeek": 124,
+    "timeMonth": 122,
     "timeYear": 133,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://api.gitterapp.com/spoken_languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-spoken-languages",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 9,
-    "timeWeek": 120,
-    "timeMonth": 113,
-    "timeYear": 98,
+    "timeDay": 32,
+    "timeWeek": 112,
+    "timeMonth": 111,
+    "timeYear": 97,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
