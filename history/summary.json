@@ -4,27 +4,29 @@
     "url": "https://api.gitterapp.com/repositories",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1590,
+    "time": 1592,
     "timeDay": 1329,
     "timeWeek": 1144,
     "timeMonth": 1383,
     "timeYear": 1589,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Github Trending Developer",
     "url": "https://api.gitterapp.com/developers",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-trending-developer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 645,
     "timeMonth": 767,
     "timeYear": 812,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Github Languages",
     "url": "https://api.gitterapp.com/languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 129,
     "timeMonth": 123,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Github Spoken Languages",
     "url": "https://api.gitterapp.com/spoken_languages",
     "icon": "https://icons.duckduckgo.com/ip3/api.gitterapp.com.ico",
     "slug": "github-spoken-languages",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +75,9 @@
     "timeWeek": 120,
     "timeMonth": 113,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Github Readme",
