@@ -1,7 +1,7 @@
 url: https://api.gitterapp.com/spoken_languages
-status: down
-code: 500
-responseTime: 2020
-lastUpdated: 2024-05-20T14:25:56.627Z
+status: up
+code: 200
+responseTime: 8
+lastUpdated: 2024-05-20T14:32:00.984Z
 startTime: 2022-09-28T01:46:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
