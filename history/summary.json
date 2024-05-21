@@ -6,18 +6,16 @@
     "slug": "github-trending-repo",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1560,
-    "timeDay": 2175,
-    "timeWeek": 1495,
-    "timeMonth": 1572,
-    "timeYear": 1567,
-    "dailyMinutesDown": {
-      "2024-05-20": 6
-    }
+    "time": 1561,
+    "timeDay": 2206,
+    "timeWeek": 1625,
+    "timeMonth": 1591,
+    "timeYear": 1566,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Trending Developer",
@@ -26,18 +24,16 @@
     "slug": "github-trending-developer",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 786,
-    "timeDay": 1586,
-    "timeWeek": 1036,
-    "timeMonth": 753,
-    "timeYear": 789,
-    "dailyMinutesDown": {
-      "2024-05-20": 6
-    }
+    "time": 787,
+    "timeDay": 1878,
+    "timeWeek": 1178,
+    "timeMonth": 782,
+    "timeYear": 790,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Languages",
@@ -46,18 +42,16 @@
     "slug": "github-languages",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 133,
-    "timeDay": 707,
-    "timeWeek": 246,
-    "timeMonth": 164,
+    "timeDay": 700,
+    "timeWeek": 251,
+    "timeMonth": 165,
     "timeYear": 132,
-    "dailyMinutesDown": {
-      "2024-05-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Spoken Languages",
@@ -66,18 +60,16 @@
     "slug": "github-spoken-languages",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 685,
-    "timeWeek": 233,
+    "timeDay": 683,
+    "timeWeek": 235,
     "timeMonth": 130,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2024-05-20": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github Readme",
@@ -91,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 977,
-    "timeDay": 1165,
-    "timeWeek": 1182,
-    "timeMonth": 1173,
+    "timeDay": 1147,
+    "timeWeek": 874,
+    "timeMonth": 1188,
     "timeYear": 998,
     "dailyMinutesDown": {
       "2024-01-17": 26,
@@ -113,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 275,
-    "timeDay": 67,
-    "timeWeek": 24,
-    "timeMonth": 66,
-    "timeYear": 258,
+    "time": 276,
+    "timeDay": 805,
+    "timeWeek": 138,
+    "timeMonth": 90,
+    "timeYear": 260,
     "dailyMinutesDown": {
       "2024-01-17": 26,
       "2023-06-13": 85
@@ -134,11 +126,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 311,
-    "timeDay": 36,
-    "timeWeek": 12,
-    "timeMonth": 57,
-    "timeYear": 263,
+    "time": 312,
+    "timeDay": 767,
+    "timeWeek": 121,
+    "timeMonth": 82,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2024-01-17": 26,
       "2023-06-13": 57
@@ -155,11 +147,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 280,
-    "timeDay": 38,
-    "timeWeek": 19,
-    "timeMonth": 71,
-    "timeYear": 251,
+    "time": 282,
+    "timeDay": 746,
+    "timeWeek": 124,
+    "timeMonth": 95,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2024-01-17": 20,
       "2023-06-13": 78
