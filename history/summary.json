@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1587,
-    "timeDay": 1593,
-    "timeWeek": 1719,
-    "timeMonth": 1857,
-    "timeYear": 1578,
+    "time": 1585,
+    "timeDay": 772,
+    "timeWeek": 1530,
+    "timeMonth": 1861,
+    "timeYear": 1577,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 753,
-    "timeWeek": 675,
-    "timeMonth": 724,
+    "time": 788,
+    "timeDay": 570,
+    "timeWeek": 639,
+    "timeMonth": 711,
     "timeYear": 772,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 74,
-    "timeWeek": 60,
+    "timeDay": 39,
+    "timeWeek": 64,
     "timeMonth": 79,
     "timeYear": 124,
     "dailyMinutesDown": {}
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 26,
-    "timeWeek": 66,
-    "timeMonth": 74,
+    "timeDay": 20,
+    "timeWeek": 68,
+    "timeMonth": 75,
     "timeYear": 98,
     "dailyMinutesDown": {}
   },
@@ -83,10 +83,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 989,
-    "timeDay": 844,
-    "timeWeek": 901,
-    "timeMonth": 1063,
-    "timeYear": 998,
+    "timeDay": 1078,
+    "timeWeek": 911,
+    "timeMonth": 1065,
+    "timeYear": 999,
     "dailyMinutesDown": {
       "2024-01-17": 26,
       "2024-01-09": 33,
@@ -99,16 +99,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/github.gitterapp.com.ico",
     "slug": "github-pinned",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 264,
-    "timeDay": 13,
-    "timeWeek": 114,
-    "timeMonth": 106,
-    "timeYear": 163,
+    "timeDay": 32,
+    "timeWeek": 116,
+    "timeMonth": 107,
+    "timeYear": 160,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }
@@ -128,7 +128,7 @@
     "timeDay": 16,
     "timeWeek": 115,
     "timeMonth": 106,
-    "timeYear": 157,
+    "timeYear": 155,
     "dailyMinutesDown": {
       "2024-01-17": 26
     }
@@ -145,10 +145,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
-    "timeDay": 13,
-    "timeWeek": 122,
-    "timeMonth": 100,
-    "timeYear": 155,
+    "timeDay": 27,
+    "timeWeek": 125,
+    "timeMonth": 101,
+    "timeYear": 151,
     "dailyMinutesDown": {
       "2024-01-17": 20
     }
